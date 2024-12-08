@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\germo\\Documents\\TKTK\\c#\\source\\repos\\Week6StringsAndArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14FE7E0A-CE7F-4F65-842E-11C5E87D8C9E}|Arrays\\Arrays.csproj|c:\\users\\germo\\documents\\tktk\\c#\\source\\repos\\week6stringsandarrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FE7E0A-CE7F-4F65-842E-11C5E87D8C9E}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DF8AA5-C2EE-4A5A-BA06-14B108802C28}|Week6StringsAndArrays\\Week6StringsAndArrays.csproj|c:\\users\\germo\\documents\\tktk\\c#\\source\\repos\\week6stringsandarrays\\week6stringsandarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DF8AA5-C2EE-4A5A-BA06-14B108802C28}|Week6StringsAndArrays\\Week6StringsAndArrays.csproj|solutionrelative:week6stringsandarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\germo\\Documents\\TKTK\\c#\\source\\repos\\Week6StringsAndArrays\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\germo\\Documents\\TKTK\\c#\\source\\repos\\Week6StringsAndArrays\\Arrays\\Program.cs*",
+              "RelativeToolTip": "Arrays\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:06:12.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\germo\\Documents\\TKTK\\c#\\source\\repos\\Week6StringsAndArrays\\Week6StringsAndArrays\\Program.cs",
+              "RelativeDocumentMoniker": "Week6StringsAndArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\germo\\Documents\\TKTK\\c#\\source\\repos\\Week6StringsAndArrays\\Week6StringsAndArrays\\Program.cs",
+              "RelativeToolTip": "Week6StringsAndArrays\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:29:02.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

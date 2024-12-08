@@ -1,0 +1,14 @@
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\bin\Debug\net8.0\Week6StringsAndArrays.exe
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\bin\Debug\net8.0\Week6StringsAndArrays.deps.json
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\bin\Debug\net8.0\Week6StringsAndArrays.runtimeconfig.json
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\bin\Debug\net8.0\Week6StringsAndArrays.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\bin\Debug\net8.0\Week6StringsAndArrays.pdb
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net8.0\Week6StringsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net8.0\Week6StringsAndArrays.AssemblyInfoInputs.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net8.0\Week6StringsAndArrays.AssemblyInfo.cs
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net8.0\Week6StringsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net8.0\Week6StringsAndArrays.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net8.0\refint\Week6StringsAndArrays.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net8.0\Week6StringsAndArrays.pdb
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net8.0\Week6StringsAndArrays.genruntimeconfig.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week6StringsAndArrays\Week6StringsAndArrays\obj\Debug\net8.0\ref\Week6StringsAndArrays.dll
